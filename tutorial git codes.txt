@@ -1,0 +1,21 @@
+Códigos GIT no CMD
+
+git remote add origin https://github.com/rafaelnkt/php.git
+
+git config --global user.name "Rafael Aguiar"
+
+git config --global user.email "rafaelweb2@gmail.com"
+
+git push origin master
+
+Enviar os arquivos da minha pasta para o repositório
+
+Será solicitado login e senha para isso
+
+------
+
+git add -all
+
+git commit -m "mudei o primeiro echo e adicionei o segundo"
+
+git push origin master
