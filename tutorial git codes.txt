@@ -14,7 +14,7 @@ Será solicitado login e senha para isso
 
 ------
 
-git add -all
+git add --all
 
 git commit -m "mudei o primeiro echo e adicionei o segundo"
 
