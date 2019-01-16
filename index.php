@@ -1,9 +1,7 @@
 <?php
 
-echo "Hello!";
+echo "Olá mundo!";
 
-echo "Olá 123";
-
-echo "Outra linha criada";
+echo "editei no Git";
 
 ?>
